@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "allure-cucumber", "~> 2.18"
+gem "cucumber", "~> 8.0"
+gem "capybara", "3.33"
+gem "selenium-webdriver", "~> 4.4"
+gem "rspec", "3.10"
+gem "faker", "2.14"
+gem "mongo", "2.13.1"
+gem "httparty", "~> 0.20.0"
